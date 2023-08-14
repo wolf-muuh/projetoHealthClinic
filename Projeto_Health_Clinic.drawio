@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T19:41:36.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="6p8yig07-HaMlxjD5Sjb" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T19:48:41.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="RyQ8vkOJHaK9zxF0zDQL" version="21.6.8" type="github">
   <diagram name="Página-1" id="cJnnzq9m_cOeXPhh8A8Y">
     <mxGraphModel dx="1441" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,6 +10,9 @@
         <mxCell id="asfIB6_G812ThX11v_aW-2" value="Usuário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="asfIB6_G812ThX11v_aW-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="asfIB6_G812ThX11v_aW-3" target="asfIB6_G812ThX11v_aW-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="asfIB6_G812ThX11v_aW-3" value="Consulta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="900" width="120" height="60" as="geometry" />
         </mxCell>
@@ -19,8 +22,11 @@
         <mxCell id="asfIB6_G812ThX11v_aW-5" value="Clínica" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="asfIB6_G812ThX11v_aW-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="asfIB6_G812ThX11v_aW-23" target="asfIB6_G812ThX11v_aW-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="asfIB6_G812ThX11v_aW-23" value="Prontuário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="asfIB6_G812ThX11v_aW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="asfIB6_G812ThX11v_aW-24" target="asfIB6_G812ThX11v_aW-52">
           <mxGeometry relative="1" as="geometry" />
@@ -80,6 +86,9 @@
         </mxCell>
         <mxCell id="asfIB6_G812ThX11v_aW-52" value="Possui" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="asfIB6_G812ThX11v_aW-58" value="Possui" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="990" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
