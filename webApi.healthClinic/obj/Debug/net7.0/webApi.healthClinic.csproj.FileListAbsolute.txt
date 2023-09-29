@@ -80,3 +80,5 @@ C:\Users\54750759805\Documents\webApi.healthClinic\obj\Debug\net7.0\refint\webAp
 C:\Users\54750759805\Documents\webApi.healthClinic\obj\Debug\net7.0\webApi.healthClinic.pdb
 C:\Users\54750759805\Documents\webApi.healthClinic\obj\Debug\net7.0\webApi.healthClinic.genruntimeconfig.cache
 C:\Users\54750759805\Documents\webApi.healthClinic\obj\Debug\net7.0\ref\webApi.healthClinic.dll
+C:\Users\54750759805\Documents\webApi.healthClinic\bin\Debug\net7.0\webApi.healthClinic.xml
+C:\Users\54750759805\Documents\webApi.healthClinic\obj\Debug\net7.0\webApi.healthClinic.xml

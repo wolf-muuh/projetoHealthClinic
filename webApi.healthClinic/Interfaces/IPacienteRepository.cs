@@ -2,9 +2,9 @@
 
 namespace webApi.healthClinic.Interfaces
 {
-    public interface IMedicoRepository
+    public interface IPacienteRepository
     {
-        void Cadastrar(Medico medico);
+        void Cadastrar(Paciente paciente);
 
         void Deletar(Guid id);
 
