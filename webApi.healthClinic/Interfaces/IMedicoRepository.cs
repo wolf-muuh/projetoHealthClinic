@@ -8,6 +8,6 @@ namespace webApi.healthClinic.Interfaces
 
         void Deletar(Guid id);
 
-        List<Consulta> ListarMinhasConsultas(string nomeMedico);
+        List<Consulta> ListarMinhasConsultas();
     }
 }

@@ -11,7 +11,7 @@ namespace webApi.healthClinic.Controllers
     [Produces("application/json")]
     public class TipoUsuarioController : ControllerBase
     {
-        private ITiposDeUsuarioRepository _tiposDeUsuarioRepository;
+        private TipoUsuarioRepository _tiposDeUsuarioRepository;
 
         public TipoUsuarioController() 
         {

@@ -4,15 +4,15 @@ namespace webApi.healthClinic.Interfaces
 {
     public interface IFeedBackRepository
     {
-        void FeedBack(FeedBack feedBack);
+        public void Cadastrar(FeedBack feedBack);
 
-        void Deletar(Guid id);
+        public void Deletar(Guid id);
 
-        void Atualizar(Guid id, FeedBack feedBack);
+        public void Atualizar(Guid id, FeedBack feedBack);
 
         List<FeedBack> Listar();
 
-        List<FeedBack> ListarPorId(Guid id);
+        public FeedBack ListarPorId(Guid id);
 
     }
 }
